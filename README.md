@@ -1,3 +1,3 @@
 # Cyber-Range
 
-![Cyber-Range-Topology](https://github.com/user-attachments/assets/6a9ffc0f-3fe3-47d1-885a-82ac59fbe222)
+![Cyber-Range-Topology](https://github.com/user-attachments/assets/140e84ac-c616-41d7-830a-60f4ce0a6655)
